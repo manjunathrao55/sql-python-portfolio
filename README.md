@@ -1,5 +1,5 @@
 # 🗄️ SQL + Python Portfolio Projects
-### Built for Job Fair | By [Manjunath Rao A]
+###  By [Manjunath Rao A]
 
 ---
 
